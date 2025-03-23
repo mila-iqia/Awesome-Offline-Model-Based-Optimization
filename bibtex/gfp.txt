@@ -1,0 +1,9 @@
+@article{Sarkisyan2016,
+	title        = {Local fitness landscape of the green fluorescent protein},
+	author       = {Sarkisyan, Karen S. and Bolotin, Dmitry A. and Meer, Margarita V. and Usmanova, Dinara R. and Mishin, Alexander S. and Sharonov, George V. and Ivankov, Dmitry N. and Bozhanova, Nina G. and Baranov, Mikhail S. and Soylemez, Onuralp and Bogatyreva, Natalya S. and Vlasov, Peter K. and Egorov, Evgeny S. and Logacheva, Maria D. and Kondrashov, Alexey S. and Chudakov, Dmitry M. and Putintseva, Ekaterina V. and Mamedov, Ilgar Z. and Tawfik, Dan S. and Lukyanov, Konstantin A. and Kondrashov, Fyodor A.},
+	year         = {2016},
+	day          = {01},
+	journal      = {Nature},
+	volume       = {533},
+	abstract     = {Comprehensive genotype--phenotype mapping of the green fluorescent protein shows that the local fitness peak is narrow, shaped by a high prevalence of epistatic interactions, providing for the loss of fluorescence when the joint effect of mutations exceeds a threshold.}
+}

@@ -1,0 +1,13 @@
+@book{10.1093/oso/9780195099713.001.0001,
+    author = {Bäck, Thomas},
+    title = {Evolutionary Algorithms in Theory and Practice: Evolution Strategies, Evolutionary Programming, Genetic Algorithms},
+    publisher = {Oxford University Press},
+    year = {1996},
+    month = {02},
+    abstract = {This book presents a unified view of evolutionary algorithms: the exciting new probabilistic search tools inspired by biological models that have immense potential as practical problem-solvers in a wide variety of settings, academic, commercial, and industrial. In this work, the author compares the three most prominent representatives of evolutionary algorithms: genetic algorithms, evolution strategies, and evolutionary programming. The algorithms are presented within a unified framework, thereby clarifying the similarities and differences of these methods. The author also presents new results regarding the role of mutation and selection in genetic algorithms, showing how mutation seems to be much more important for the performance of genetic algorithms than usually assumed. The interaction of selection and mutation, and the impact of the binary code are further topics of interest. Some of the theoretical results are also confirmed by performing an experiment in meta-evolution on a parallel computer. The meta-algorithm used in this experiment combines components from evolution strategies and genetic algorithms to yield a hybrid capable of handling mixed integer optimization problems. As a detailed description of the algorithms, with practical guidelines for usage and implementation, this work will interest a wide range of researchers in computer science and engineering disciplines, as well as graduate students in these fields.},
+    isbn = {9780195099713},
+    doi = {10.1093/oso/9780195099713.001.0001},
+    url = {https://doi.org/10.1093/oso/9780195099713.001.0001},
+}
+
+

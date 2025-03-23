@@ -1,0 +1,8 @@
+@inbook{Deb2005,
+	title        = {Scalable Test Problems for Evolutionary Multiobjective Optimization},
+	author       = {Deb, Kalyanmoy and Thiele, Lothar and Laumanns, Marco and Zitzler, Eckart},
+	year         = {2005},
+	booktitle    = {Evolutionary Multiobjective Optimization: Theoretical Advances and Applications},
+	publisher    = {Springer London},
+	pages        = {105--145},
+}

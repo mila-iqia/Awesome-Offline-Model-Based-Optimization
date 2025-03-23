@@ -1,0 +1,9 @@
+@article{sphere,
+	title        = {A benchmark of kriging-based infill criteria for noisy optimization},
+	author       = {Picheny, Victor and Wagner, Tobias and Ginsbourger, David},
+	year         = {2013},
+	journal      = {Struct. Multidiscip. Optim.},
+	publisher    = {Springer-Verlag},
+	volume       = {48},
+	issue_date   = {September 2013}
+}

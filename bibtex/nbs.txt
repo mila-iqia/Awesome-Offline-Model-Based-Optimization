@@ -1,0 +1,5 @@
+@misc{Krizhevsky2009LearningML,
+	title        = {Learning Multiple Layers of Features from Tiny Images},
+	author       = {Alex Krizhevsky},
+	year         = {2009}
+}

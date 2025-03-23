@@ -1,0 +1,7 @@
+@article{1197690,
+	title        = {The balance between proximity and diversity in multiobjective evolutionary algorithms},
+	author       = {Bosman, P.A.N. and Thierens, D.},
+	year         = {2003},
+	journal      = {IEEE Transactions on Evolutionary Computation},
+	volume       = {7}
+}

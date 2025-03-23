@@ -1,0 +1,7 @@
+@article{DEB20081062,
+	title        = {Omni-optimizer: A generic evolutionary algorithm for single and multi-objective optimization},
+	author       = {Kalyanmoy Deb and Santosh Tiwari},
+	year         = {2008},
+	journal      = {European Journal of Operational Research},
+	volume       = {185}
+}

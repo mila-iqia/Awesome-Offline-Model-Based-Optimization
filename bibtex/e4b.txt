@@ -1,0 +1,8 @@
+@article{e4b,
+	title        = {Activity-enhancing mutations in an E3 ubiquitin ligase identified by high-throughput mutagenesis},
+	author       = {Lea M. Starita  and Jonathan N. Pruneda  and Russell S. Lo  and Douglas M. Fowler  and Helen J. Kim  and Joseph B. Hiatt  and Jay Shendure  and Peter S. Brzovic  and Stanley Fields  and Rachel E. Klevit},
+	year         = {2013},
+	journal      = {Proceedings of the National Academy of Sciences},
+	volume       = {110},
+	eprint       = {https://www.pnas.org/doi/pdf/10.1073/pnas.1303309110}
+}

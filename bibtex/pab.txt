@@ -1,0 +1,7 @@
+@article{Melamed2013-id,
+	title        = {Deep mutational scanning of an {RRM} domain of the Saccharomyces cerevisiae poly(A)-binding protein},
+	author       = {Melamed, Daniel and Young, David L and Gamble, Caitlin E and Miller, Christina R and Fields, Stanley},
+	year         = {2013},
+	journal      = {Rna},
+	volume       = {19}
+}

@@ -1,0 +1,7 @@
+@article{Barrera2016-er,
+	title        = {Survey of variation in human transcription factors reveals prevalent {DNA} binding changes},
+	author       = {Barrera, Luis A and Vedenko, Anastasia and Kurland, Jesse V and Rogers, Julia M and Gisselbrecht, Stephen S and Rossin, Elizabeth J and Woodard, Jaie and Mariani, Luca and Kock, Kian Hong and Inukai, Sachi and Siggers, Trevor and Shokri, Leila and Gord{\^a}n, Raluca and Sahni, Nidhi and Cotsapas, Chris and Hao, Tong and Yi, Song and Kellis, Manolis and Daly, Mark J and Vidal, Marc and Hill, David E and Bulyk, Martha L},
+	year         = {2016},
+	journal      = {Science},
+	volume       = {351}
+}

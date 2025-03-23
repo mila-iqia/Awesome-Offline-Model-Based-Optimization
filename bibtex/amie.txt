@@ -1,0 +1,7 @@
+@article{Wrenbeck2017-ed,
+	title        = {Single-mutation fitness landscapes for an enzyme on multiple substrates reveal specificity is globally encoded},
+	author       = {Wrenbeck, Emily E and Azouz, Laura R and Whitehead, Timothy A},
+	year         = {2017},
+	journal      = {Nature Communications},
+	volume       = {8}
+}

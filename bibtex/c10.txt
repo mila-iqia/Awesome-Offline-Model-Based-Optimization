@@ -1,0 +1,10 @@
+@ARTICLE{10004638,
+  author={Lu, Zhichao and Cheng, Ran and Jin, Yaochu and Tan, Kay Chen and Deb, Kalyanmoy},
+  journal={IEEE Transactions on Evolutionary Computation}, 
+  title={Neural Architecture Search as Multiobjective Optimization Benchmarks: Problem Formulation and Performance Assessment}, 
+  year={2024},
+  volume={28},
+  number={2},
+  pages={323-337},
+  keywords={Computer architecture;Optimization;Benchmark testing;Deep learning;Task analysis;Search problems;Hardware;Deep learning;evolutionary multiobjective optimization (EMO);neural architecture search (NAS)},
+  doi={10.1109/TEVC.2022.3233364}}

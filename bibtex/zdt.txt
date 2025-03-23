@@ -1,0 +1,11 @@
+@ARTICLE{6787994,
+  author={Zitzler, Eckart and Deb, Kalyanmoy and Thiele, Lothar},
+  journal={Evolutionary Computation}, 
+  title={Comparison of Multiobjective Evolutionary Algorithms: Empirical Results}, 
+  year={2000},
+  volume={8},
+  number={2},
+  pages={173-195},
+  keywords={Evolutionary algorithms;multiobjective optimization;Pareto optimality;test functions;elitism.},
+  doi={10.1162/106365600568202}
+}

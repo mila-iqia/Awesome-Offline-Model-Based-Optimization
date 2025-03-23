@@ -1,0 +1,7 @@
+@inproceedings{hypervolume,
+	title        = {Multiobjective optimization using evolutionary algorithms --- A comparative case study},
+	author       = {Zitzler, Eckart and Thiele, Lothar},
+	year         = {1998},
+	booktitle    = {Parallel Problem Solving from Nature --- PPSN V},
+	publisher    = {Springer Berlin Heidelberg}
+}

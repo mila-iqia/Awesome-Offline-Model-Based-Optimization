@@ -1,0 +1,6 @@
+@article{klesmith2015comprehensive,
+	title        = {Comprehensive sequence-flux mapping of a levoglucosan utilization pathway in E. coli},
+	author       = {Klesmith, Justin R and Bacik, John-Paul and Michalczyk, Ryszard and Whitehead, Timothy A},
+	year         = {2015},
+	journal      = {ACS synthetic biology}
+}

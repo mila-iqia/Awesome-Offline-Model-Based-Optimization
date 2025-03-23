@@ -1,0 +1,9 @@
+@misc{gramacy2010casesnuggetmodelingcomputer,
+      title={Cases for the nugget in modeling computer experiments}, 
+      author={Robert B. Gramacy and Herbert K. H. Lee},
+      year={2010},
+      eprint={1007.4580},
+      archivePrefix={arXiv},
+      primaryClass={stat.CO},
+      url={https://arxiv.org/abs/1007.4580}, 
+}

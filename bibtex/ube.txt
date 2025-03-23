@@ -1,0 +1,7 @@
+@article{Weile2017-hv,
+	title        = {A framework for exhaustively mapping functional missense variants},
+	author       = {Weile, Jochen and Sun, Song and Cote, Atina G and Knapp, Jennifer and Verby, Marta and Mellor, Joseph C and Wu, Yingzhou and Pons, Carles and Wong, Cassandra and van Lieshout, Natascha and Yang, Fan and Tasan, Murat and Tan, Guihong and Yang, Shan and Fowler, Douglas M and Nussbaum, Robert and Bloom, Jesse D and Vidal, Marc and Hill, David E and Aloy, Patrick and Roth, Frederick P},
+	year         = {2017},
+	journal      = {Mol Syst Biol},
+	volume       = {13}
+}

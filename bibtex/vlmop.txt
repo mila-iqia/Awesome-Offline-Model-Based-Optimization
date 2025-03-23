@@ -1,0 +1,15 @@
+@inproceedings{10.1145/298151.298382,
+    author = {van Veldhuizen, David A. and Lamont, Gary B.},
+    title = {Multiobjective evolutionary algorithm test suites},
+    year = {1999},
+    isbn = {1581130864},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/298151.298382},
+    doi = {10.1145/298151.298382},
+    booktitle = {Proceedings of the 1999 ACM Symposium on Applied Computing},
+    pages = {351–357},
+    numpages = {7},
+    location = {San Antonio, Texas, USA},
+    series = {SAC '99}
+}

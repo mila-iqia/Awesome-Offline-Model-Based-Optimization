@@ -1,0 +1,8 @@
+@article{aav,
+	title        = {Comprehensive AAV capsid fitness landscape reveals a viral gene and enables machine-guided design},
+	author       = {Pierce J. Ogden  and Eric D. Kelsic  and Sam Sinai  and George M. Church},
+	year         = {2019},
+	journal      = {Science},
+	volume       = {366},
+	eprint       = {https://www.science.org/doi/pdf/10.1126/science.aaw2900}
+}

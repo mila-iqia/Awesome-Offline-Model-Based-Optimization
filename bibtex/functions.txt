@@ -1,0 +1,12 @@
+@article{Jamil_2013,
+   title={A literature survey of benchmark functions for global optimisation problems},
+   volume={4},
+   ISSN={2040-3615},
+   url={http://dx.doi.org/10.1504/IJMMNO.2013.055204},
+   DOI={10.1504/ijmmno.2013.055204},
+   number={2},
+   journal={International Journal of Mathematical Modelling and Numerical Optimisation},
+   publisher={Inderscience Publishers},
+   author={Jamil, Momin and Yang, Xin She},
+   year={2013},
+   pages={150} }

@@ -1,0 +1,6 @@
+@article{sample2019human,
+	title        = {Human 5 UTR design and variant effect prediction from a massively parallel translation assay},
+	author       = {Sample, Paul J and Wang, Ban and Reid, David W and Presnyak, Vlad and McFadyen, Iain J and Morris, David R and Seelig, Georg},
+	year         = {2019},
+	journal      = {Nature biotechnology}
+}
