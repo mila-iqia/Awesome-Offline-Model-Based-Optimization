@@ -46,7 +46,22 @@ Offline multi-objective optimization (MOO) extends the framework to simultaneous
 - [**BayesO Benchmarks: Benchmark Functions for Bayesian Optimization**](https://github.com/jungtaekkim/bayeso-benchmarks) (Jungtaek Kim, 2023) [💻](https://github.com/jungtaekkim/bayeso-benchmarks) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/bayeso.txt)
 
 - [**Pymoo: Multi-Objective Optimization in Python**](https://ieeexplore.ieee.org/document/9078759) (Julian Blank & Kalyanmoy Ded, IEEE Access 2020) [💻](https://github.com/anyoptimization/pymoo) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/pymoo.txt)
-- [**Offline Multi-Objective Optimization**](https://arxiv.org/abs/2406.03722) (Ke Xue & Rong-Xi Tan et al., ICML 2024) [💻](https://github.com/lamda-bbo/offline-moo) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/offline_moo.txt)
+
+- [**Evolutionary Algorithms in Theory and Practice : Evolution Strategies, Evolutionary Programming, Genetic Algorithms**](https://academic.oup.com/book/40791) (Thomas Bäck, Oxford University Press 1996) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/ea_book.txt)
+
+- [**A Literature Survey of Benchmark Functions for Global Optimization Problems**](https://arxiv.org/abs/1308.4008) (Momin Jamil and Xin-She Yang, Int. Journal of Mathematical Modelling and Numerical Optimisation 2013) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/functions.txt)
+
+- [**Cases for the Nugget in Modeling Computer Experiments**](https://arxiv.org/abs/1007.4580) (Robert B. Gramacy and Herbert K.H. Lee, 2010) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/nugget.txt)
+
+- [**A Benchmark of Kriging-Based Infill Criteria for Noisy Optimization**](https://link.springer.com/article/10.1007/s00158-013-0919-4) (Victor Picheny et al., Structural and Multidisciplinary Optimization 2013) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/sphere.txt)
+
+- [**Scalable Test Problems for Evolutionary Multiobjective Optimization**](https://link.springer.com/chapter/10.1007/1-84628-137-7_6) (Kalyanmoy Deb et al., Evolutionary Multiobjective Optimization 2005) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/deb2005.txt)
+
+- [**Omni-Optimizer: A Generic Evolutionary Algorithm for Single and Multi-Objective Optimization**](https://www.sciencedirect.com/science/article/abs/pii/S0377221706006291) (Kalyanmoy Deb et al., European Journal of Operational Research 2008) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/omni.txt)
+
+- [**Multiobjective Evolutionary Algorithm Test Suites**](https://dl.acm.org/doi/10.1145/298151.298382) (David A. van Veldhuizen and Gary B. Lamont, ACM Symposium on Applied Computing 1999) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/vlmop.txt)
+
+- [**Comparison of Multiobjective Evolutionary Algorithms: Empirical Results**](https://ieeexplore.ieee.org/document/6787994) (Eckart Zitzler et al., Evolutionary Computation 2000) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/zdt.txt)
 
 #### Real-World System
 
@@ -56,8 +71,6 @@ Offline multi-objective optimization (MOO) extends the framework to simultaneous
 
 - [**SOO-Bench: Benchmarks for Evaluating the Stability of Offline Black-Box Optimization**](https://openreview.net/forum?id=bqf0aCF3Dd) (Hong Qian et al., ICLR 2025) [💻](https://github.com/zhuyiyi-123/SOO-Bench) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/soo.txt)
 
-- [**Offline Multi-Objective Optimization**](https://arxiv.org/abs/2406.03722) (Ke Xue & Rong-Xi Tan et al., ICML 2024) [💻](https://github.com/lamda-bbo/offline-moo) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/offline_moo.txt)
-
 - [**Design-Bench: Benchmarks for Data-Driven Offline Model-Based Optimization**](https://proceedings.mlr.press/v162/trabucco22a.html) (Brandon Trabucco & Xinyang Geng et al., ICML 2022) [💻](https://github.com/brandontrabucco/design-bench) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/design_bench.txt)
 
 - [**Data-Driven Offline Optimization for Architecting Hardware Accelerators**](https://openreview.net/forum?id=GsH-K1VIyy) (Aviral Kumar & Amir Yazdanbakhsh et al., ICLR 2022) [💻](https://github.com/google-research/google-research/tree/master/prime) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/hardware.txt)
@@ -65,10 +78,20 @@ Offline multi-objective optimization (MOO) extends the framework to simultaneous
 #### Scientific Design
 
 - [**ViennaRNA Package 2.0**](https://almob.biomedcentral.com/articles/10.1186/1748-7188-6-26) (Ronny Lorenz et al., Algorithms for Molecular Biology 2011) [💻](https://www.tbi.univie.ac.at/RNA/) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/vienna_rna.txt)
-- [**Conservative Objective Models for Effective Offline Model-Based Optimization**](https://arxiv.org/abs/2107.06882) (Brandon Trabucco & Aviral Kumar et al., ICML 2021) [💻](https://github.com/brandontrabucco/design-baselines) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/coms.txt)
-
 - [**Design-Bench: Benchmarks for Data-Driven Offline Model-Based Optimization**](https://proceedings.mlr.press/v162/trabucco22a.html) (Brandon Trabucco & Xinyang Geng et al., ICML 2022) [💻](https://github.com/brandontrabucco/design-bench) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/design_bench.txt)
+
+- [**Local Fitness Landscape of the Green Fluorescent Protein**](https://www.nature.com/articles/nature17995) (Karen S. Sarkisyan et al., Nature 2016) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/gfp.txt)
+- [**Human 5 UTR Design and Variant Effect Prediction from a Massively Parallel Translation Assay**](https://www.nature.com/articles/s41587-019-0164-5) (Paul J. Sample et al., Nature Biotechnology 2019) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/utr.txt)
+- [**Comprehensive AAV Capsid Fitness Landscape Reveals a Viral Gene and Enables Machine-Guided Design**](https://www.science.org/doi/10.1126/science.aaw2900) (Pierce J. Ogden et al., Science 2019) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/aav.txt)
+- [**Activity-Enhancing Mutations in an E3 Ubiquitin Ligase Identified by High-Throughput Mutagenesis**](https://www.pnas.org/doi/10.1073/pnas.1303309110) (Lea M. Starita et al., Proceedings of the National Academy of Sciences 2013) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/e4b.txt)
 - [**Proximal Exploration for Model-Guided Protein Sequence Design**](https://proceedings.mlr.press/v162/ren22a.html) (Zhizhou Ren & Jiahan Li et al., ICML 2022) [💻](https://github.com/HeliXonProtein/proximal-exploration) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/proximal.txt)
+- [**Single-Mutation Fitness Landscapes for an Enzyme on Multiple Substrates Reveal Specificity Is Globally Encoded**](https://www.nature.com/articles/ncomms15695) (Emily E. Wrenbeck et al., Nature Communications 2017) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/amie.txt)
+- [**Comprehensive Sequence-Flux Mapping of a Levoglucosan Utilization Pathway in E. coliC**](https://pubs.acs.org/doi/10.1021/acssynbio.5b00131) (Justin R. Klesmith et al., ACS Synthetic Biology 2015) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/lgk.txt)
+- [**Deep Mutational Scanning of an RRM Domain of the Saccharomyces Cerevisiae Poly(A)-Binding Protein**](https://pubmed.ncbi.nlm.nih.gov/24064791/) (Daniel Melamed et al., RNA 2013) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/pab.txt)
+- [**A Framework for Exhaustively Mapping Functional Missense Variants**](https://www.embopress.org/doi/full/10.15252/msb.20177908) (Jochen Weile et al., Molecular Systems Biology 2017) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/ube.txt)
+- [**Accelerating Bayesian Optimization for Biological Sequence Design with Denoising Autoencoders**](https://proceedings.mlr.press/v162/stanton22a) (Samuel Stanton et al., ICML 2022) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/regex.txt)
+- [**Survey of Variation in Human Transcription Factors Reveals Prevalent DNA Binding Changes**](https://www.science.org/doi/10.1126/science.aad2257) (Luis A Barrera et al., Science 2016) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/tfbind.txt)
+
 - [**Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models for Protein Structures**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3fa7d76a0dc1179f1e98d1bc62403756-Abstract-Conference.html) (Shitong Luo & Yufeng Su et al., NeurIPS 2022) [💻](https://github.com/luost26/diffab) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/antigen.txt)
 - [**Offline Multi-Objective Optimization**](https://arxiv.org/abs/2406.03722) (Ke Xue & Rong-Xi Tan et al., ICML 2024) [💻](https://github.com/lamda-bbo/offline-moo) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/offline_moo.txt)
 
@@ -76,9 +99,12 @@ Offline multi-objective optimization (MOO) extends the framework to simultaneous
 - [**Bayesian Optimization of Active Materials for Lithium-Ion Batteries**](https://saemobilus.sae.org/papers/bayesian-optimization-active-materials-lithium-ion-batteries-2021-01-0765) (Homero Valladares et al., IEEE IECON 2021) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/battery.txt)
 
 #### Machine Learning Model
-
+- [**Neural Architecture Search with Reinforcement Learning**](https://openreview.net/forum?id=r1Ue8Hcxg) (Barret Zoph et al., ICLR 2017) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/NAS.txt)
+- [**Neural Architecture Search as Multiobjective Optimization Benchmarks: Problem Formulation and Performance Assessment**](https://ieeexplore.ieee.org/document/10004638?denied=) (Zhichao Lu et al., IEEE Transactions on Evolutionary Computation 2023) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/c10.txt)
+- [**Learning Multiple Layers of Features from Tiny Images**](https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf) (Alex Krizhevsky, 2009) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/nbs.txt)
 - [**Design-Bench: Benchmarks for Data-Driven Offline Model-Based Optimization**](https://proceedings.mlr.press/v162/trabucco22a.html) (Brandon Trabucco & Xinyang Geng et al., ICML 2022) [💻](https://github.com/brandontrabucco/design-bench) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/design_bench.txt)
 - [**Offline Multi-Objective Optimization**](https://arxiv.org/abs/2406.03722) (Ke Xue & Rong-Xi Tan et al., ICML 2024) [💻](https://github.com/lamda-bbo/offline-moo) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/offline_moo.txt)
+- [**Prediction-Guided Multi-Objective Reinforcement Learning for Continuous Robot Control**](https://proceedings.mlr.press/v119/xu20h.html) (Jie Xu et al., ICML 2020) [💻](https://github.com/mit-gfx/PGMORL) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/robot_weight.txt)
 - [**HPOBench: A Collection of Reproducible Multi-Fidelity Benchmark Problems for HPO**](https://openreview.net/forum?id=1k4rJYEwda-) (Katharina Eggensperger et al., NeurIPS Datasets and Benchmarks Track 2021) [💻](https://github.com/automl/HPOBench) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/hpobench.txt)
 
 ### Evaluation Metric
@@ -87,8 +113,8 @@ Offline multi-objective optimization (MOO) extends the framework to simultaneous
 
 - [**Design-Bench: Benchmarks for Data-Driven Offline Model-Based Optimization**](https://proceedings.mlr.press/v162/trabucco22a.html) (Brandon Trabucco & Xinyang Geng et al., ICML 2022) [💻](https://github.com/brandontrabucco/design-bench) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/design_bench.txt)
 - [**Biological Sequence Design with GFlowNets**](https://proceedings.mlr.press/v162/jain22a.html) (Moksh Jain et al., ICML 2022) [💻](https://github.com/MJ10/BioSeq-GFN-AL) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/biosequence_gflownet.txt)
-- [**Offline Multi-Objective Optimization**](https://arxiv.org/abs/2406.03722) (Ke Xue & Rong-Xi Tan et al., ICML 2024) [💻](https://github.com/lamda-bbo/offline-moo) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/offline_moo.txt)
-- [**ParetoFlow: Guided Flows in Multi-Objective Optimization**](https://openreview.net/forum?id=mLyyB4le5u) (Ye Yuan & Can Chen et al., ICLR 2025) [💻](https://github.com/mila-iqia/ParetoFlow) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/paretoflow.txt)
+- [**Multiobjective Optimization Using Evolutionary Algorithms — A Comparative Case Study**](https://link.springer.com/chapter/10.1007/bfb0056872) (Eckart Zitzler and Lothar Thiele, Parallel Problem Solving from Nature — PPSN V 1998) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/hv.txt)
+- [**The Balance between Proximity and Diversity in Multiobjective Evolutionary Algorithms**](https://ieeexplore.ieee.org/document/1197690) (P.A.N. Bosman and D. Thierens, IEEE Transactions on Evolutionary Computation 2003) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/igd.txt)
 
 #### Diversity
 
