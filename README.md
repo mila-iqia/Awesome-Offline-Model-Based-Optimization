@@ -9,7 +9,7 @@ This repository collects important papers for our new survey: **"Offline Model-B
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 ![Stars](https://img.shields.io/github/stars/mila-iqia/Awesome-Offline-Model-Based-Optimization?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/mila-iqia/Awesome-Offline-Model-Based-Optimization?color=green&label=Forks)
 
-+ 💻: links to the `Code`
++ 💻: links to the `code`
 + 📖: links to the `bibtex`
 
 
