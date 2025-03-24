@@ -2,7 +2,7 @@
 
 📰 Must-Read Papers on Offline Model-Based Optimization 🔥
 
-This repository collects important papers for our new survey: **"Offline Model-Based Optimization: Comprehensive Review"** (will release soon), which is authored by [Minsu Kim](https://minsuukim.github.io/), [Jiayao Gu](https://mila.quebec/en/directory/claris-gu), [Ye Yuan](https://mila.quebec/en/directory/ye-yuan), [Taeyoung Yun](https://dbsxodud-11.github.io/), [Zixuan Liu](https://scholar.google.ca/citations?user=yjKOHbEAAAAJ&hl=en), [Yoshua Bengio](https://mila.quebec/en/directory/yoshua-bengio), and [Can Chen](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile).
+This repository collects important papers for our latest survey: [**"Offline Model-Based Optimization: Comprehensive Review"**](https://arxiv.org/abs/2503.17286), which is authored by [Minsu Kim](https://minsuukim.github.io/), [Jiayao Gu](https://mila.quebec/en/directory/claris-gu), [Ye Yuan](https://mila.quebec/en/directory/ye-yuan), [Taeyoung Yun](https://dbsxodud-11.github.io/), [Zixuan Liu](https://scholar.google.ca/citations?user=yjKOHbEAAAAJ&hl=en), [Yoshua Bengio](https://mila.quebec/en/directory/yoshua-bengio), and [Can Chen](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile).
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/StevenYuan666/Awesome-Offline-Model-Based-Optimization)
 ![](https://img.shields.io/github/last-commit/StevenYuan666/Awesome-Offline-Model-Based-Optimization?color=green)
@@ -14,6 +14,7 @@ This repository collects important papers for our new survey: **"Offline Model-B
 
 
 ## Latest Updates
++ [2025/03/23] Our Survey is Publicly Accessible Now: See Our ArXiv Preprint [here](https://arxiv.org/abs/2503.17286)!
 + [2025/03/04] First Release of Awesome-Offline-Model-Based Optimization!
 
 ## 🔍 Table of Contents
@@ -22,6 +23,7 @@ This repository collects important papers for our new survey: **"Offline Model-B
 - [🔗 Benchmark](#-benchmark)
 - [🎯 Surrogate Modeling](#-surrogate-modeling)
 - [🤔 Generative Modeling](#-generative-modeling)
+- [📑 Citing This Survey!](#citation)
 
 ## 🌟 What is Offline Model-Based Optimization?
 
@@ -224,3 +226,17 @@ Miguel Hernández-Lobato et al., ACS central science 2018) [💻](https://github
 - [**Improved Off-Policy Reinforcement Learning in Biological Sequence Design**](https://arxiv.org/abs/2410.04461) (Hyeonah Kim et al., NeurIPS AI for New Drug Modalities 2024) [💻](https://github.com/hyeonahkimm/delta_cs) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/delta_cs.txt)
 - [**Learning to Scale Logits for Temperature-Conditional GFlowNets**](https://arxiv.org/abs/2310.02823) (Minsu Kim & Joohwan Ko et al., ICML 2024) [💻](https://github.com/dbsxodud-11/logit-gfn) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/logitgfn.txt)
 - [**Posterior Inference with Diffusion Models for High-Dimensional Black-box Optimization**](https://arxiv.org/abs/2502.16824) (Taeyoung Yun et al., 2025) [💻](https://github.com/umkiyoung/DiBO) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/dibo.txt)
+
+## Citation
+If you found our survey paper is useful for your research, please consider cite our work:
+```bibtex
+@misc{kim2025offline,
+      title={Offline Model-Based Optimization: Comprehensive Review}, 
+      author={Minsu Kim and Jiayao Gu and Ye Yuan and Taeyoung Yun and Zixuan Liu and Yoshua Bengio and Can Chen},
+      year={2025},
+      eprint={2503.17286},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2503.17286}, 
+}
+```
