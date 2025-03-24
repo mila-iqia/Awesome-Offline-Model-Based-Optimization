@@ -2,7 +2,7 @@
 
 📰 Must-Read Papers on Offline Model-Based Optimization 🔥
 
-This repository collects important papers for our new survey: **"Offline Model-Based Optimization: Comprehensive Review"** (will release soon), which is authored by [Minsu Kim](https://minsuukim.github.io/), [Jiayao Gu](https://mila.quebec/en/directory/claris-gu), [Ye Yuan](https://mila.quebec/en/directory/ye-yuan), [Taeyoung Yun](https://dbsxodud-11.github.io/), [Zixuan Liu](https://scholar.google.ca/citations?user=yjKOHbEAAAAJ&hl=en), [Yoshua Bengio](https://mila.quebec/en/directory/yoshua-bengio), and [Can Chen](https://mila.quebec/en/directory/can-sam-chen).
+This repository collects important papers for our new survey: **"Offline Model-Based Optimization: Comprehensive Review"** (will release soon), which is authored by [Minsu Kim](https://minsuukim.github.io/), [Jiayao Gu](https://mila.quebec/en/directory/claris-gu), [Ye Yuan](https://mila.quebec/en/directory/ye-yuan), [Taeyoung Yun](https://dbsxodud-11.github.io/), [Zixuan Liu](https://scholar.google.ca/citations?user=yjKOHbEAAAAJ&hl=en), [Yoshua Bengio](https://mila.quebec/en/directory/yoshua-bengio), and [Can Chen](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile).
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/StevenYuan666/Awesome-Offline-Model-Based-Optimization)
 ![](https://img.shields.io/github/last-commit/StevenYuan666/Awesome-Offline-Model-Based-Optimization?color=green)
