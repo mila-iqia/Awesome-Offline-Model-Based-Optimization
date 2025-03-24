@@ -2,26 +2,26 @@
 
 📰 Must-Read Papers on Offline Model-Based Optimization 🔥
 
-This repository collects important papers for our new survey: **"Offline Model-Based Optimization: Comprehensive Review"** (will release soon), which is authored by [Minsu Kim](https://minsuukim.github.io/), [Jiayao Gu](https://mila.quebec/en/directory/claris-gu), [Ye Yuan](https://mila.quebec/en/directory/ye-yuan), [Taeyoung Yun](https://dbsxodud-11.github.io/), [Zixuan Liu](https://scholar.google.ca/citations?user=yjKOHbEAAAAJ&hl=en), [Yoshua Bengio](https://mila.quebec/en/directory/yoshua-bengio), [Can Chen](https://mila.quebec/en/directory/can-sam-chen)
+This repository collects important papers for our new survey: **"Offline Model-Based Optimization: Comprehensive Review"** (will release soon), which is authored by [Minsu Kim](https://minsuukim.github.io/), [Jiayao Gu](https://mila.quebec/en/directory/claris-gu), [Ye Yuan](https://mila.quebec/en/directory/ye-yuan), [Taeyoung Yun](https://dbsxodud-11.github.io/), [Zixuan Liu](https://scholar.google.ca/citations?user=yjKOHbEAAAAJ&hl=en), [Yoshua Bengio](https://mila.quebec/en/directory/yoshua-bengio), and [Can Chen](https://mila.quebec/en/directory/can-sam-chen).
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/StevenYuan666/Awesome-Offline-Model-Based-Optimization)
 ![](https://img.shields.io/github/last-commit/StevenYuan666/Awesome-Offline-Model-Based-Optimization?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 ![Stars](https://img.shields.io/github/stars/mila-iqia/Awesome-Offline-Model-Based-Optimization?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/mila-iqia/Awesome-Offline-Model-Based-Optimization?color=green&label=Forks)
 
-+ 💻: `Code`
-+ 📖: `bibtex`
++ 💻: links to the `Code`
++ 📖: links to the `bibtex`
 
 
 ## Latest Updates
-+ [2025/03/04] First Release of Awesome-Offline-Model-Based Optimization
++ [2025/03/04] First Release of Awesome-Offline-Model-Based Optimization!
 
 ## 🔍 Table of Contents
 
-- [🌟 What is Offline Model-Based Optimization?](#-definition)
-- [🔗 Benchmark](#-Benchmark)
-- [🎯 Surrogate Modeling](#-Surrogate-Modeling)
-- [🤔 Generative Modeling](#-Generative-Modeling)
+- [🌟 What is Offline Model-Based Optimization?](#-what-is-offline-model-based-optimization)
+- [🔗 Benchmark](#-benchmark)
+- [🎯 Surrogate Modeling](#-surrogate-modeling)
+- [🤔 Generative Modeling](#-generative-modeling)
 
 ## 🌟 What is Offline Model-Based Optimization?
 
@@ -29,7 +29,7 @@ In offline optimization, the goal is to discover a new design, denoted by $\bold
 
 In offline single-objective optimization, only one objective is considered (i.e., $m=1$). For instance, the design $\boldsymbol{x}$ might represent a neural network architecture, with $f(\boldsymbol{x})$ denoting the network's accuracy on a given dataset. Offline multi-objective optimization extends the framework to simultaneously address multiple objectives. In this setting, the goal is to find solutions that balance competing objectives effectively. For instance, when designing a neural architecture, one might seek to achieve both high accuracy and high efficiency.
 
-We review recent benchmarks, highlighting key tasks and evaluation metrics. We then categorize existing approaches into two key areas: surrogate modeling, which emphasizes accurate function approximation in out-of-distribution regions, and generative modeling, which explores high-dimensional design spaces to identify high-performing designs.
+We review recent [benchmarks](#-benchmark), highlighting key [tasks](#task) and [evaluation metrics](#evaluation-metric). We then categorize existing approaches into two key areas: [surrogate modeling](#-surrogate-modeling), which emphasizes accurate function approximation in out-of-distribution regions, and [generative modeling](#-generative-modeling), which explores high-dimensional design spaces to identify high-performing designs.
 
 ## 🔗 Benchmark
 
